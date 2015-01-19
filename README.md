@@ -12,7 +12,7 @@ Adiciona para o controle de versão
 git commit index.php -m "comentário"
 
 ##4º Passo
-##Criado repositorio no git com inicialização do README.md
+Criado repositorio no git com inicialização do README.md
 
 ##5º Passo
 clonando repositorio para pasta local
